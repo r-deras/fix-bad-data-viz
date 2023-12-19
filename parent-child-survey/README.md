@@ -6,7 +6,7 @@ To Do:
 3. Create a better data visualization to tell the story of the data.
 4. Summarize your process and insights and post wherever you put your projects. 
 5. If you'd like, share it on social media and tag me! @data.story.teller on Instagram and Threads or @data_storyteller on TikTok.
-6. Check back in a week or so to see what I did with the data.
+6. I'll share what I did with the data in a future issue of my [newsletter](https://datastoryteller.substack.com/). 
 
 Data source: [NORC at the University of Chicago](https://gssdataexplorer.norc.org/home)
 
